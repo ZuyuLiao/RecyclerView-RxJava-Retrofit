@@ -1,0 +1,15 @@
+com/interview/testimport/PostViewHolder.java
+ com.interview.testimport.PostViewHolder
+com/interview/testimport/BuildConfig.java
+ com.interview.testimport.BuildConfig
+com/interview/testimport/IMyAPI.java
+ com.interview.testimport.IMyAPI
+com/interview/testimport/RetrofitClient.java
+ com.interview.testimport.RetrofitClient
+com/interview/testimport/MainActivity.java
+ com.interview.testimport.MainActivity
+ com.interview.testimport.MainActivity$1
+com/interview/testimport/Model.java
+ com.interview.testimport.Model
+com/interview/testimport/PostAdapter.java
+ com.interview.testimport.PostAdapter
